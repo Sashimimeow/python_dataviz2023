@@ -7,6 +7,7 @@
 - Homework (เดี่ยว,กลุ่ม) 25%
 - Quiz (เดี่ยว) 10%
 - Project (กลุ่ม-เลือกเอง) 30%
-- Mid-term (กลุ่ม-สุ่ม)15%
-- Final (เดี่ยว) 20%
+- Mid-term (เดี่ยว)15%
+- Final (กลุ่ม-สุ่ม) 20%
+- 
 Final Score = Score * Attendence
